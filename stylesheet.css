@@ -1,0 +1,111 @@
+@charset "UTF-8";
+
+
+
+body{
+background-color: #ffffcc;
+
+}
+
+#container{
+  width: 900px;
+  margin:0px auto;
+  background-color:#cccccc;
+  border-left: solid 4px #ff9933;
+  border-right: solid 4px #ff9933;
+}
+
+header{
+  width: 900px;
+  height: 200px;
+ background-image: url("koya_p.jpg");
+ background-repeat: no-repeat;
+background-size: cover;
+}
+
+aside{
+  width:200px;
+  float: left;
+}
+
+.main{
+  width: 660px;
+  padding: 20px;
+  background-color: #ffffff;
+  float: left;
+}
+
+
+footer{
+  width:900px;
+  clear:both;
+  background-color: #000000;
+}
+
+#title-words{
+  padding-top: 115px;
+  padding-right: 20px;
+  text-align: right;
+  color: white;
+  font-size: 28px;
+  font-weight:
+}
+
+
+#subtitle-words{
+  padding-top: 4px;
+  padding-right: 20px;
+  text-align: right;
+  color:white;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+
+
+nav ul{list-style-type:none}
+
+nav a{
+  text-decoration: none;
+  font-size: 11pt;
+  font-weight: bold;
+  color: #ffffff;
+  display: block;
+  height: 25px;
+  padding: 12px 0px 3px 10px;
+  border-top: solid 1px #ffffff
+}
+
+a.nav-last{
+  border-bottom: solid 1px #ffffff;
+}
+
+.sub a{
+  font-size: 10pt;
+  font-weight: normal;
+  height: 20px;
+  padding:10px 0px 3px 30px;
+  border-top: dotted 1px #999999;
+}
+
+nav a:hover{
+  background-color: red;
+}
+
+aside p {
+  padding: 30px 8px;
+  font-size: 10px;
+}
+
+footer p{
+  padding: 10px 0px;
+  font-size: 10px;
+  text-align: center;
+  color: #ffffff;
+}
+
+p.honbun{
+  margin:0px 0px 15px;
+  font-size: 10px;
+  line-height: 1.7
+}
