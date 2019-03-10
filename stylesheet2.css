@@ -1,0 +1,90 @@
+body{
+background-color:#ccff99;
+}
+
+.container{
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url("aozora.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height:800px;
+  width:1000px;
+}
+
+.container h1{
+  color: white;
+  font-family:fantasy;
+  font-size: 30px;
+  text-align: right;
+  padding:30px 30px 0px 30px;
+}
+
+.container p {
+  color: white;
+  font-family: fantasy;
+  text-align: right;
+  padding-right: 40px;
+}
+
+.bottom-black{
+  margin-left: auto;
+  margin-right: auto;
+  background-color: black;
+  color: white;
+  height: 30px;
+  width:1000px;
+  text-align: center;
+}
+
+
+.select-1{
+  width:350px;
+  height: 150px;
+  border: solid 8px rgba(255,0,0,0.7);
+  border-radius: 50px;
+  background-color:rgba(0,100,10,0.5);
+  float: left;
+  margin-left: 90px;
+  margin-top: 60px;
+}
+
+.select-2{
+  width:350px;
+  height: 150px;
+  border: solid 8px rgba(255,0,0,0.7);
+  border-radius: 50px;
+  background-color:rgba(0,100,10,0.5);
+  float: left;
+  margin-left: 90px;
+  margin-top: 60px;
+}
+
+
+.select-3{
+  width:350px;
+  height: 150px;
+  border: solid 8px rgba(255,0,0,0.7);
+  border-radius: 50px;
+  background-color:rgba(0,100,10,0.5);
+  float: left;
+  margin-left: 90px;
+  margin-top: 90px;
+}
+
+.select-4{
+  width:350px;
+  height: 150px;
+  border: solid 8px rgba(255,0,0,0.7);
+  border-radius: 50px;
+  background-color:rgba(0,100,10,0.5);
+  float: left;
+  margin-left: 90px;
+  margin-top: 90px;
+}
+
+.kimi{
+  clear:both;
+  text-align: center;
+  font-family: sans-serif;
+}
